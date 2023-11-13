@@ -3,7 +3,7 @@ Juego del BUSCAMINAS con HTML, CSS y JAVASCRIPT.
 
 
 ## Web
-[Jugar al BUSCAMINAS](https://javimontoto.github.io/Buscaminas/)
+[Jugar al BUSCAMINAS](https://adrielcelsorosales.github.io/buscaminas/)
 
 ## Características
 * Formulario para configurar el juego (tamaño y número de minas).
@@ -23,4 +23,4 @@ Juego del BUSCAMINAS con HTML, CSS y JAVASCRIPT.
 
 
 ## Autor
-* **Adriel Rosales**
+**Adriel Rosales**
